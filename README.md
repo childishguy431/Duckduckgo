@@ -234,4 +234,4 @@ DuckDuckGo is offered as a full free version with all features and updates inclu
 Start browsing with confidence and privacy today! Download DuckDuckGo now and experience the difference.
 
 ---
-**Last updated:** 2026-09-28 10:30:56 UTC
+**Last updated:** 2026-09-28 18:24:43 UTC
